@@ -1,0 +1,47 @@
+commit 1452388f3473dd9d80f35a31c3d2e4dfd0e22458
+Author: karseck <karseckon@yandex.ru>
+Date:   Tue Oct 4 14:47:12 2022 +0200
+
+    v 0.4.2
+
+commit a7307c43c7d01f6ec9755f56a4647d3dfb4ac3cb
+Author: karseck <karseckon@yandex.ru>
+Date:   Tue Oct 4 13:29:23 2022 +0200
+
+    nadoelo
+
+commit 87b00f418add384408859614a7808caaec96e2b3
+Author: karseck <vrangel.sk@gmail.com>
+Date:   Tue Oct 4 13:26:22 2022 +0200
+
+    add github
+
+commit 387f3500c3d04e53aea96be72c6c9c63a0e9dd77
+Author: sk <vrangel.sk@gmail.com>
+Date:   Tue Oct 4 12:11:26 2022 +0200
+
+    V 0.4.1
+
+commit 802c8bf8942cee46961b808f111378338c466af0
+Author: sk <vrangel.sk@gmail.com>
+Date:   Tue Oct 4 12:09:46 2022 +0200
+
+    proverka s odnim krasnym failom, V 0.4
+
+commit feca94698b2c9822d85551c399af23d47ea25739
+Author: sk <vrangel.sk@gmail.com>
+Date:   Tue Oct 4 11:50:24 2022 +0200
+
+    few changes, V 0.3
+
+commit 8291bdf90818542f9c71cc41b5e571e4069f7815
+Author: sk <vrangel.sk@gmail.com>
+Date:   Tue Oct 4 11:23:43 2022 +0200
+
+    My test commit, V 0.2
+
+commit 5e9ee9f7a562e677d517ceb313ba53b2c23f868f
+Author: sk <vrangel.sk@gmail.com>
+Date:   Mon Sep 26 15:53:09 2022 +0200
+
+    My initial commit, V 1.0
